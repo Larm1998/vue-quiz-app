@@ -27,3 +27,7 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### APP Running
+
+![image](https://github.com/user-attachments/assets/6a5fe558-36d9-4973-b0c1-ae109586bf7c)
